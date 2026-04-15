@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabio-weydson
-- 👀 I’m interested in learn, growp up in my career and travel
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Science/Machine Learning projects
-
+- 💻 Full Stack Engineer (React | Node.js | Blockchain)
+- 👀 Interested in building scalable systems, learning continuously, and exploring the world
+- 🌱 Currently sharpening my skills in Data Structures & Algorithms
+- 🤝 Open to collaborate on backend, distributed systems, and data-driven projects
